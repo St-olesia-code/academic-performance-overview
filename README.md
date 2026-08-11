@@ -382,7 +382,7 @@ This project demonstrates practical experience with the following areas:
 
 The repository contains:
 
-- `Academic_Performance_Overview.pbix` — Power BI project file;
+- [Academic Performance Overview.pbix](Academic%20Performance%20Overview.pbix) — Power BI project file;
 - dashboard screenshots;
 - data model visualization;
 - project documentation.
